@@ -1,0 +1,6 @@
+{
+  "name": "Cognevance Task Management System",
+  "description": "Production-ready MERN Stack Task Management System with JWT authentication, role-free user ownership, deadline tracking, and interactive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
